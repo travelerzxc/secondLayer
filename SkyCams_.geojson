@@ -1,0 +1,247 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.85,66.585 ]
+    },
+    "properties": {
+    "Nam":"Jokkmokk, Sweden",
+    "Cam":"http://jokkmokk.jp/photo/nr3/latest.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.15,57.77 ]
+    },
+    "properties": {
+    "Nam":"Irbit, Russia",
+    "Cam":"https://starvisor.ru/wp-content/uploads/webcam/307/capture307.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76,66 ]
+    },
+    "properties": {
+    "Nam":"Novy Urengoy, Russia",
+    "Cam":"https://starvisor.ru/wp-content/uploads/webcam/capture_nur.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.0,61.0 ]
+    },
+    "properties": {
+    "Nam":"Strezhevoy, Russia",
+    "Cam":"https://starvisor.ru/wp-content/uploads/webcam/185/capture.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.6,67.41 ]
+    },
+    "properties": {
+    "Nam":"Sodankyla, Finland",
+    "Cam":"https://aurorainfo.eu/aurora-live-cameras/sodankyla-finland-all-sky-aurora-live-camera.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.82,66.95 ]
+    },
+    "properties": {
+    "Nam":"Porjus, Sweden",
+    "Cam":"https://aurorainfo.eu/aurora-live-cameras/porjus-sweden-west-view-aurora-live-camera.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.043,78.148 ]
+    },
+    "properties": {
+    "Nam":"Svalbard, Norway",
+    "Cam":"https://aurorainfo.eu/aurora-live-cameras/svalbard-norway-all-sky-aurora-live-camera.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.13,69.35 ]
+    },
+    "properties": {
+    "Nam":"Ramfjordmoen, Norway",
+    "Cam":"https://aurorainfo.eu/aurora-live-cameras/ramfjordmoen-norway-all-sky-aurora-live-camera.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.59,62.25 ]
+    },
+    "properties": {
+    "Nam":"Hankasalmi, Finland",
+    "Cam":"https://aurorainfo.eu/aurora-live-cameras/hankasalmi-finland-all-sky-aurora-live-camera.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.5,61.52 ]
+    },
+    "properties": {
+    "Nam":"Tampere, Finland",
+    "Cam":"https://aurorainfo.eu/aurora-live-cameras/tampere-finland-aurora-live-camera.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.85,69.02 ]
+    },
+    "properties": {
+    "Nam":"Kilpisjarvi, Finland",
+    "Cam":"https://aurorainfo.eu/aurora-live-cameras/kilpissafarit-all-sky-aurora-live-camera.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.41,67.85 ]
+    },
+    "properties": {
+    "Nam":"Kiruna, Sweden",
+    "Cam":"https://aurorainfo.eu/aurora-live-cameras/kiruna-sweden-all-sky-aurora-live-camera.jpg?1634790312"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.47,65.11 ]
+    },
+    "properties": {
+    "Nam":"Chatanika, Alaska",
+    "Cam":"https://allsky.gi.alaska.edu/tagged_cam/211021052808.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.88,64.84 ]
+    },
+    "properties": {
+    "Nam":"Fairbanks, Alaska",
+    "Cam":"https://live.alaskaauroracam.com/livejpg.php?0.7156756792589136"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.292944,45.27725 ]
+    },
+    "properties": {
+    "Nam":"Sebec Lake, Maine",
+    "Cam":"https://www.neoc.com/webcam3/starcamsmall.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.349,64.75 ]
+    },
+    "properties": {
+    "Nam":"North Pole, Alaska",
+    "Cam":"https://auroranotify.com/image10.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.45,61.58 ]
+    },
+    "properties": {
+    "Nam":"Wasilla, Alaska",
+    "Cam":"https://auroranotify.com/kickaxcamimage.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -145.27,62.3 ]
+    },
+    "properties": {
+    "Nam":"Gakona, Alaska",
+    "Cam":"http://optics.gi.alaska.edu/realtime/latest/gak_latest.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -151.01,63.07 ]
+    },
+    "properties": {
+    "Nam":"Denali, Alaska",
+    "Cam":"http://denaliview1.ddns.net:8080/nph-jpeg.cgi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.59,47.92 ]
+    },
+    "properties": {
+    "Nam":"Skunk Bay, Washington",
+    "Cam":"http://skunkbayweather.com/Canon/NightCam.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.96,68.65 ]
+    },
+    "properties": {
+    "Nam":"Tromso, Norway",
+    "Cam":"https://fox.phys.uit.no/ASC/Latest_ASC01.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.43,62.39 ]
+    },
+    "properties": {
+    "Nam":"Hankasalmi, Finland",
+    "Cam":"http://aurorasnow.fmi.fi/public_service/images/latest_SIR_AllSky.jpg"
+    }
+  }
+]
+}
