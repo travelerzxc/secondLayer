@@ -49,6 +49,17 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 39.0,59.0 ]
+    },
+    "properties": {
+    "Nam":"Vologda, Russia",
+    "Cam":"https://starvisor.ru/wp-content/uploads/webcam/307/capture307.jpg"
+    }
+  },    
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 26.6,67.41 ]
     },
     "properties": {
