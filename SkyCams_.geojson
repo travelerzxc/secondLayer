@@ -253,6 +253,28 @@
     "Nam":"Hankasalmi, Finland",
     "Cam":"http://aurorasnow.fmi.fi/public_service/images/latest_SIR_AllSky.jpg"
     }
-  }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.24,62.27 ]
+    },
+    "properties": {
+    "Nam":"Yellowknife, Canada",
+    "Cam":"https://virmalised.ee/aurora-live-cameras/yellowknife-canada-aurora-live-camera.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.066666,51.04 ]
+    },
+    "properties": {
+    "Nam":"Calgary, Canada",
+    "Cam":"https://virmalised.ee/aurora-live-cameras/calgary-canada-aurora-live-camera.jpg"
+    }
+  }        
 ]
 }
