@@ -258,7 +258,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 114.24,62.27 ]
+       "coordinates":  [ -114.24,62.27 ]
     },
     "properties": {
     "Nam":"Yellowknife, Canada",
